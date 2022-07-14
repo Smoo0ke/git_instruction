@@ -104,4 +104,4 @@ git checkout "name"
 git checkout master
 ```
 
-На этом пока все.
+## 8. Изображения
