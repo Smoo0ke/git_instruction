@@ -127,6 +127,11 @@ git branch
 ```
 git branch "name"
 ```
+
+Для перехода между ветками мы используем команду:
+```
+git checkout "name_of_branch"
+```
 ## 11.
 
 
